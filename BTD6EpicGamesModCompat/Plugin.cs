@@ -3,7 +3,7 @@ using MelonLoader;
 using System;
 using System.IO;
 
-[assembly: MelonInfo(typeof(Plugin), "BTD6 Epic Games Mod Compat", "1.0.4", "Baydock")]
+[assembly: MelonInfo(typeof(Plugin), "BTD6 Epic Games Mod Compat", "1.0.5", "Baydock")]
 [assembly: MelonGame("Ninja Kiwi", "BloonsTD6-Epic")]
 
 namespace BTD6EpicGamesModCompat;
